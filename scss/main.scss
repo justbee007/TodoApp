@@ -1,0 +1,36 @@
+button 
+{
+    border:none;
+    color:blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li {
+    font-size: 30px;
+    font-style: italic;
+}
+#content
+{
+    
+    /* display: inline; */
+    height:250px;
+    width:250px;
+    border-style: solid;
+    border-radius: 20px;
+}
+input
+{
+ display:inline;
+ width:290px;
+ padding-left: 70px;
+ border-radius: 20px;
+ 
+}
+body{
+    // background-image:url("backgroundyellow.jpg");
+    background-color: rgb(202, 56, 12);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /* padding-left: 750px; */
+    
+}

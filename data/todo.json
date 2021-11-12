@@ -1,0 +1,16 @@
+[{
+    "title": "Grocery",
+    "details": "Banana,Cucumber,milk,cornflakes",
+    "createdTime": "11/2/2021 11:45:45 AM"
+},
+{
+    "title": "Gym Products",
+    "details": "Towel, Protien Powder",
+    "createdTime": "11/2/2021 12:00:45 PM"
+},
+{
+    "title": "Laundry",
+    "details": "Detergent,Dryer Sheets",
+    "createdTime": "11/2/2021 13:50:45 PM"
+}
+]

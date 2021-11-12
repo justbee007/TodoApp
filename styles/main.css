@@ -1,0 +1,87 @@
+button {
+    border: none;
+    color: blue;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    
+  }
+  
+  li {
+    font-size: 30px;
+    font-style: italic;
+  }
+  
+  #content {
+    /* display: inline; */
+    height: 250px;
+    width: 370px;
+    border-style: solid;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+    margin-left: 560px;
+    margin-top: 30px;
+    border-top: none;
+    
+  }
+  
+  input {
+    display: inline;
+    width: 290px;
+    padding-left: 70px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    
+  }
+  
+  body {
+    background-image:url("backgroundyellow.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  #headings
+  { text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  }
+
+label
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+#datettimeval
+{
+    text-align: center;
+}
+#list
+{
+    text-align: center;
+    border-style:solid;
+    width:300px;
+    margin-left: 590px;
+    border-radius: 20px;
+    
+
+}
+
+#form 
+{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#heading
+{
+    margin-left: 550px;
+}
+
+/* #datetime-local
+{ text-align: center;
+    margin-left: 560px;
+
+} */
+input#meeting-time {
+    margin-left: 550px;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="styles/main.css">
+        <!--<script defer src="app/main.js"></script> -->
+        
+    </head>
+<body>
+    <div id="headings"><h1>Add your Notes here</h1>
+    </div>
+    <div id= "form">
+        <label for="heading">Note Title</label>
+        <!-- <label for="content">Type Below the content</label> -->
+        
+        </div>
+        <div id="text">
+        <input type="text" id="heading" name="heading">
+        <!--<label for="content">Type Below the content</label> -->
+        <!-- <input type="textarea" rows="5" cols="33" id="content" name="content"> -->
+        <div id="list">
+            <!-- <img id="unorderedlist" src="images/unorderedlist.png" height="20px", width="20px"> -->
+            <label for="content">Type Below the content</label>
+
+            <img id="unorderedlist" src="images/orderedlist.png" height="20px", width="20px">
+            <img id="orderedlist" src="images/orderedlist.png" height="20px", width="20px">
+        </div>
+        <div id="content" contenteditable="true">
+           
+        </div>
+        <label id="datettimeval" for="datetime-local">Choose the date time</label><br>
+        <input type="datetime-local" id="meeting-time">
+        <button id="addnote">Add</button>
+        
+    </div>
+
+</body>
+<script defer src="app/main.js">
+</script>
+
+</html>
